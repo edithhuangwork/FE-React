@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "private": true,
-  "homepage": "https://edithhuangwork/github.io/my-app",
+  "homepage": "https://edithhuangwork.github.io/FE-React",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
