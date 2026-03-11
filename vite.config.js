@@ -4,7 +4,10 @@ import react from '@vitejs/plugin-react'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: "/FE-React/",
+  // a. turn on next line for github page deploy
+  // base: "/FE-React/",
+  // b. turn on next line for netlify
+  base: "/",
   build: {
     outDir: 'dist',
     assetDir: 'assets',
